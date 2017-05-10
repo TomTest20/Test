@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\anastasiya.marynska\Downloads\WindowsService_HostAPI\WindowsService_HostAPI\bin\Debug\WindowsService_HostAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anastasiya.marynska\Downloads\WindowsService_HostAPI\WindowsService_HostAPI\bin\Debug\WindowsService_HostAPI.InstallLog
+   assemblypath = C:\Users\anastasiya.marynska\Downloads\WindowsService_HostAPI\WindowsService_HostAPI\bin\Debug\WindowsService_HostAPI.exe
+Installing service IndianTest...
+Service IndianTest has been successfully installed.
+Creating EventLog source IndianTest in log Application...
+Committing assembly 'C:\Users\anastasiya.marynska\Downloads\WindowsService_HostAPI\WindowsService_HostAPI\bin\Debug\WindowsService_HostAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anastasiya.marynska\Downloads\WindowsService_HostAPI\WindowsService_HostAPI\bin\Debug\WindowsService_HostAPI.InstallLog
+   assemblypath = C:\Users\anastasiya.marynska\Downloads\WindowsService_HostAPI\WindowsService_HostAPI\bin\Debug\WindowsService_HostAPI.exe
