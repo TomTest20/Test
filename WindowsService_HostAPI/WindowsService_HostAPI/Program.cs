@@ -22,11 +22,11 @@ namespace WindowsService_HostAPI
 
          
              
-            ServicesToRun = new ServiceBase[] 
-            { 
-                _selfHostService
-            };
-            ServiceBase.Run(ServicesToRun);
+            //ServicesToRun = new ServiceBase[] 
+            //{ 
+            //    _selfHostService
+            //};
+            //ServiceBase.Run(ServicesToRun);
         }
     }
 }
