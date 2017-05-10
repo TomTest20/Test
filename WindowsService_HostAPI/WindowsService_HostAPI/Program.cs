@@ -20,13 +20,13 @@ namespace WindowsService_HostAPI
 
             SelfHostService _selfHostService = new SelfHostService();
 
-         
-             
-            //ServicesToRun = new ServiceBase[] 
-            //{ 
-            //    _selfHostService
-            //};
-            //ServiceBase.Run(ServicesToRun);
+
+
+            ServicesToRun = new ServiceBase[]
+            {
+                _selfHostService
+            };
+            ServiceBase.Run(ServicesToRun);
         }
     }
 }
